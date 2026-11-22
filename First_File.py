@@ -4,3 +4,5 @@
 # This is our code
 
 print("I love Git!")
+
+print("I love merging and branching!")
